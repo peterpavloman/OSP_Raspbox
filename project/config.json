@@ -3,5 +3,7 @@
     "web_port": 9991,
     "sync_port": 9999,
     "web_host": "10.0.0.100",
-    "sync_host": "10.0.0.100"
+    "sync_host": "10.0.0.100",
+    "sync_mode": "server",
+    "web_server": "enabled"
 }
