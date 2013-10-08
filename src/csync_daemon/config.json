@@ -1,0 +1,7 @@
+{
+    "sync_paths": ["/root/sync_dir"],
+    "timer_inactivity": 30,
+    "timer_activity": 5,
+    "logging": true
+
+}
